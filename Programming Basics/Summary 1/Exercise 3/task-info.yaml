@@ -10,7 +10,7 @@ files:
       length: 6
       offset: 114
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: KUtTVVUD2FoftR6M7SCWgQ==
   - offset: 126
@@ -30,7 +30,7 @@ files:
       length: 6
       offset: 201
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: B32H4xjFtl8yhKC200kQ5w==
   - offset: 213
