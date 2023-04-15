@@ -2,7 +2,14 @@
 package summaryIExercise8
 
 fun reverseDecimal(number: Int): Int {
-  TODO()
+  var num = number //TODO()
+  var res = 0
+  while (num > 0) {
+    res *= 10
+    res += num % 10
+    num /= 10
+  }
+  return res
 }
 
 fun main() {

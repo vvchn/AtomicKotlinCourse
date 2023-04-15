@@ -2,7 +2,7 @@
 package summaryIExercise9
 
 fun printTriangle(n: Int) {
-  TODO()
+   //TODO()
 }
 
 fun main() {
