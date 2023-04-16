@@ -2,7 +2,7 @@
 package summaryIExercise1
 
 fun main() {
-  var x = 1 //TODO()
+  var x = 1
   val y = x
   val z = y
   x = 2

@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 223
-    length: 311
+    length: 302
     placeholder_text: TODO() // write some examples
     initial_state:
       length: 29
@@ -13,7 +13,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: XX+m4yj/olqgShFimnLR3bkPqKDOfO6R1GfiBkyPcJDocTjIt7lzPjHXFN/zyFle8dEcHSujw114yPCVwdz5G/arEpxCwZTt1NVdNYS0SqTvPNMJM8UNZZK7jm2LyZQDfl90IdoKVc1M5VPfWO8dfa21O0imRp3NUcqwdUcte7T+I6YfKpsdURF8HMb4hk1v9O5/PQx/nDhvKoYv9u5aIHkMseZyG7leg5hpOuXGBi0Y/UpPNYdpVqnhC7GLCrQTqmqYTD1u3t5ay/xp6oAysw0khBBhBAzY2oUaRmUYK/yUh7886anz5ZOMEiyh2jwvjpZubb0RoTxdQ4fXLULhu+lVfjOTfufqReUN0QSK3x7pZvsdVjIvZh9uVl5oQfqoGBQqihx8j9c+IGediJdtmaCcseVut2Hko4gGQG4cPfthlHzjjFlCypRoinU9IBee
-  - offset: 632
+  - offset: 623
     length: 6
     placeholder_text: ???
     initial_state:
@@ -23,8 +23,8 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: 3pV63kJXum/Z7TaRkP1j0A==
-  - offset: 668
-    length: 547
+  - offset: 659
+    length: 538
     placeholder_text: TODO() // write some examples
     initial_state:
       length: 29

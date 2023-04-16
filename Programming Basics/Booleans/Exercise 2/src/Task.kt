@@ -10,7 +10,7 @@ fun showOr(first: Boolean, second: Boolean) {
 }
 
 fun showTruthTable() {
-    showAnd(first = false, second = false)//TODO()
+    showAnd(first = false, second = false)
     showAnd(first = false, second = true)
     showAnd(first = true, second = false)
     showAnd(first = true, second = true)

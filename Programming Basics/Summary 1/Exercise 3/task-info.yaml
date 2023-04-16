@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 114
-    length: 17
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -13,18 +13,18 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: KUtTVVUD2FoftR6M7SCWgQ==
-  - offset: 137
-    length: 16
+  - offset: 126
+    length: 5
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 126
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: 1qQ9kQ9eUXSirgUkxBvydQ==
-  - offset: 222
-    length: 15
+  - offset: 200
+    length: 4
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -33,14 +33,14 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: B32H4xjFtl8yhKC200kQ5w==
-  - offset: 243
-    length: 17
+  - offset: 210
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 213
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: Y3eDTb4jKIJENiymIXby7w==
   encrypted_text: JOlrc05WUCsrcvu8aiKeKZ2GGxdwlT/AfOshADyz4ms4X8XfvDlWQ57/LDsrrzZWkVfF/D+hCenzhSRv5mtqn/vxptplNIngh1dCkV9YYWsRVGMh+D1FyVFO5N0IxH2aFc+gOvITh1FMusS5bfOCIOt/cmIKrLGzG1kdRoAfv75tfEUDabrPyhKmutyJypPDK2SuRKPg/fvBPgpwaMszaipmbZDtrN1JxeMmh0o7uE2Tp77kRUh1AVahu4MAFfEM4C3hZib0NfKZc9bQ0Krx//FJlTZNcTkIx/8macHTMVKFolv7yqA8L3zSJHhOo8XQZ7lksgCwfPh19SYsw11wrS/0zFWbD5upODczgKfkDyJYz438ipqmrdptvwnluDZRuS50mBbUXoCU/xdWdaz/AIXVwv7d4Hhb4OSrB58/V3I06kPOodZ4+6QOjm3IoBFRIp73+Uewpk79onL85upHPnn5Q8cwuf6eO+56WsORdj+3ne3oKTCvpLOzxmqfZRBlJaHIdPDOM0CXautzZ/jLr7kaJO8t5N2C/Im+8iZd/7oYE2UqZuDcev8BlgEMozT8

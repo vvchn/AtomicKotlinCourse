@@ -2,7 +2,7 @@
 package summaryIExercise8
 
 fun reverseDecimal(number: Int): Int {
-  var num = number //TODO()
+  var num = number
   var res = 0
   while (num > 0) {
     res *= 10

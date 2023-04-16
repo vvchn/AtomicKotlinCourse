@@ -14,7 +14,7 @@ files:
     status: Solved
     encrypted_possible_answer: +upyuuYPnr1yp93SWCFvvA==
   - offset: 170
-    length: 13
+    length: 5
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -23,7 +23,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: eqBJL1C509+r1J2a7zkF/Q==
-  - offset: 200
+  - offset: 192
     length: 17
     placeholder_text: 0
     initial_state:
@@ -33,8 +33,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: sTnQ3LYhury3zKlq9Z+DlQpO5AVFTPERTbbGT7GSq/Q=
-  - offset: 245
-    length: 14
+  - offset: 237
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -43,7 +43,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: yZv5QOtlKs0/wFxV1B1hvw==
-  - offset: 279
+  - offset: 263
     length: 25
     placeholder_text: 0
     initial_state:
@@ -53,8 +53,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: sTnQ3LYhury3zKlq9Z+DlSDsj4HbJXLB+Gh4FYqvS7w=
-  - offset: 335
-    length: 14
+  - offset: 319
+    length: 6
     placeholder_text: TODO()
     initial_state:
       length: 6

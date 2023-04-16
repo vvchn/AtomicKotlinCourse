@@ -7,7 +7,7 @@ fun showHalfTriangle(n: Int) {
       print('#')
     }
     print("\n")
-  } //TODO()
+  }
 }
 
 fun main() {

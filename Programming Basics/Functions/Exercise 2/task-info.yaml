@@ -4,13 +4,13 @@ files:
   visible: true
   placeholders:
   - offset: 104
-    length: 18
+    length: 9
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 104
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: V0Q6gqqvAlodHVm5jPkWNA==
   encrypted_text: P2TNWzrkldotOjhf49bLKqTuFKlaLoVhAelDiLtrEWI6pKhRSU1lUMXmns/yBIWm13RwjWt5N2kRn4CT+JuFD6XVIC6bn2xQf9QXIUlfctMQNqqvAeiGlsfXYDKlqgYFRFILFJJK3cbNWqdrWd+cS9EP7z4Jyq3bQgMnmvY1lIz0u9T/zW0hHv1exLSSwbSl4DSqQD/XEmvvHw0y3on1+7o/vv0hNQX0GVRIKdlLZ1M=

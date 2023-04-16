@@ -9,7 +9,7 @@ fun main() {
   val character: Char = 'a'
 
   // Can be combined:
-  //TODO() // write some examples
+  // write some examples
   val res1 = int + int
   val res2 = int + double
   val res3 = character + int
@@ -26,7 +26,7 @@ fun main() {
   println("String")
 
   // Can't be combined:
-  //TODO() // write some examples
+  // write some examples
   // val res01 = int + boolean
   // val res02 = int + character
   // val res03 = int + string

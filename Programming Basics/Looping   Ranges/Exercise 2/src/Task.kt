@@ -10,7 +10,7 @@ fun factorial(n: Int): Long {
 }
 
 fun sumOfFactorials(n: Int): Long {
-  var res = 0L //TODO()
+  var res = 0L
   for (i in 1..n) {
     res += factorial(i)
   }

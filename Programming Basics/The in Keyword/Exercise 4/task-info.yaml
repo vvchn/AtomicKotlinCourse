@@ -13,8 +13,8 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: bn8ZGZ3pQVmKv9p+91IalJSTd5R6uY1n/xCJAHv1v/vPvj4Ud5Y8GHrxjruQPQiM3RTpnQfsVMPAdkQvvZFaRGV6qlqV7PxiUhMys9IICDSuNKZE4I1hEnWFtgQcxV0JBpSYrNP1Lvfwn3ooDrHi7Q==
-  - offset: 118
-    length: 391
+  - offset: 117
+    length: 379
     placeholder_text: TODO()
     initial_state:
       length: 6

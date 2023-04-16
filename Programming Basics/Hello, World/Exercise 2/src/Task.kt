@@ -3,5 +3,5 @@ package helloWorldExercise2
 
 fun main() {
     print("Hello,\n")
-    println("Kotlin!")// TODO
+    println("Kotlin!")
 }

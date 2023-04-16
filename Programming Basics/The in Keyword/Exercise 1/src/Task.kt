@@ -3,7 +3,7 @@ package theInKeywordExercise1
 
 fun getAlphabet(): String {
     var str = ""
-    for (i in 'a'..'z') { //TODO()
+    for (i in 'a'..'z') {
         str += i
     }
     return str

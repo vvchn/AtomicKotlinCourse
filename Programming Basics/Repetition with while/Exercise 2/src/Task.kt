@@ -7,7 +7,7 @@ fun sum(number: Int): Int {
   while(i <= number) {
     res += i
     i++
-  } //TODO()
+  }
   return res
 }
 

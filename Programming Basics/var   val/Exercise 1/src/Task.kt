@@ -5,5 +5,5 @@ fun main() {
     var answer = 42
     println(answer)
     answer = 43
-    println(answer)// TODO
+    println(answer)
 }

@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 105
-    length: 33
+    length: 24
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -13,8 +13,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: OqFt0EJTNyKNOhAKU5ABeQyANB6mcCokRSAxWFVxKbY=
-  - offset: 191
-    length: 33
+  - offset: 182
+    length: 24
     placeholder_text: TODO()
     initial_state:
       length: 6

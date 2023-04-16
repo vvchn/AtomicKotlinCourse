@@ -24,7 +24,7 @@ files:
     status: Solved
     encrypted_possible_answer: 1VGEyOOlbZHkoz/d0XddwvxnyvLop/NXYptCY/hSw5RhSuLX7l6S4qCYmXuKDl1a2d2a2Bj5KCoLdT8ZI5Tmk0m61e4GKHy4D8WtUEGnjGtAVWd25PrEpv5qyUzP9BM39qF9S38p4dYk9Sq9+ESUcA==
   - offset: 282
-    length: 338
+    length: 330
     placeholder_text: TODO()
     initial_state:
       length: 6

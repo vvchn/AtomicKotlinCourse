@@ -2,7 +2,30 @@
 package summaryIExercise10
 
 fun showSnake(rows: Int, columns: Int) {
-  TODO()
+  if (rows <= 0 || columns <= 0) return
+  var width = 1
+  var num = rows * columns - 1
+  //val width = (rows * columns).toString().length + 1
+  while (num > 0) {
+    width++
+    num /= 10
+  }
+  num = 0
+  for (i in 0 until rows) {
+    for (j in 0 until columns) {
+      if (i % 2 == 0) {
+        print("%${width}d".format(num))
+        num++
+      }
+      else {
+        print("%${width}d".format(num + columns - 1 - j))
+      }
+    }
+    if (i % 2 != 0) {
+      num += columns
+    }
+    println()
+  }
 }
 
 fun main() {

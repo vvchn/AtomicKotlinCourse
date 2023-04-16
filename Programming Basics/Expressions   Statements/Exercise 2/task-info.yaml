@@ -34,7 +34,7 @@ files:
     status: Solved
     encrypted_possible_answer: bALBSH06A2cQDoH5TL8401AA5U2VOS7t+52uFtP3OXk=
   - offset: 240
-    length: 171
+    length: 144
     placeholder_text: TODO()
     initial_state:
       length: 6
