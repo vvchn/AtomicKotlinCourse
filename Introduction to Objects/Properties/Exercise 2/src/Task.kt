@@ -2,25 +2,26 @@
 package propertiesExercise2
 
 class Robot {
-  /*TODO*/
+  var x: Int = 0
+  var y: Int = 0
 
   fun right(steps: Int) {
-    TODO()
+    x += steps
   }
 
   fun left(steps: Int) {
-    TODO()
+    x -= steps
   }
 
   fun down(steps: Int) {
-    TODO()
+    y += steps
   }
 
   fun up(steps: Int) {
-    TODO()
+    y -= steps
   }
 
-  fun getLocation(): String = TODO()
+  fun getLocation(): String = "($x, $y)"
 }
 
 fun main() {
