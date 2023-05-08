@@ -2,11 +2,11 @@
 package constrainingVisibilityExercise2
 
 class Robot(
-  val fieldSize: Int,
-  var x: Int,
-  var y: Int
+  private val fieldSize: Int,
+  private var x: Int,
+  private var y: Int
 ) {
-  fun crossBoundary(coordinate: Int): Int {
+  private fun crossBoundary(coordinate: Int): Int {
     val inBounds = coordinate % fieldSize
     return if (inBounds < 0) {
       fieldSize + inBounds
@@ -43,5 +43,5 @@ class Robot(
 fun main() {
   val robot = Robot(10, 1, 1)
   // Should be "can't access x" error:
-//  println(robot.x)
+//println(robot.x)
 }
