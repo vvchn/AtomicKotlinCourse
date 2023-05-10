@@ -4,7 +4,16 @@ import atomictest.capture
 import atomictest.eq
 
 fun repeatChar(ch: Char, n: Int): String {
-  TODO()
+  if (n < 0) {
+    throw IllegalArgumentException("Count 'n' must be non-negative, but was $n.")
+  }
+  else {
+    var str = ""
+    for (i in 0 until n) {
+      str += ch
+    }
+    return str
+  }
 }
 
 fun main() {
