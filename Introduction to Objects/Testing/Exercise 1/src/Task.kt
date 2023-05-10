@@ -2,8 +2,10 @@
 package testingExercise1
 import atomictest.eq
 
-fun abs(number: Int): Int = TODO()
+fun abs(number: Int): Int = if (number >= 0) number else -number
 
 fun main() {
-  TODO()
+  0 eq abs(0)
+  42 eq abs(42)
+  -239 eq abs(-239)
 }
