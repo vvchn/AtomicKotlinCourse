@@ -2,7 +2,11 @@
 package listsExercise2
 
 fun countOccurrences(list: IntList, number: Int): Int {
-  TODO()
+  var c = 0
+  for (i in list) {
+    if (i == number) c++
+  }
+  return c
 }
 
 fun main() {
