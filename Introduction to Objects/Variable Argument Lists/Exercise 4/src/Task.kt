@@ -3,7 +3,11 @@ package variableArgumentListsExercise4
 import atomictest.eq
 
 fun flatten(listOfLists: List<List<String>>): List<String> {
-  TODO()
+  var res = listOf<String>()
+  for (i in listOfLists) {
+    res += i.toTypedArray()
+  }
+  return res
 }
 
 fun main() {
