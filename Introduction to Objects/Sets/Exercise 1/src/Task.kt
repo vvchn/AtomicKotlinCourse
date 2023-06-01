@@ -2,8 +2,9 @@
 package setsExercise1
 import atomictest.eq
 
+//return (s.toList().sorted() == s.toSet().sorted())
 fun hasUniqueCharacters(s: String): Boolean {
-  TODO()
+  return (s.length == s.toSet().size)
 }
 
 fun main() {
