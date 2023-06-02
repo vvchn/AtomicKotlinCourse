@@ -2,6 +2,7 @@
 package mapsExercise2
 import atomictest.capture
 import atomictest.eq
+import java.util.NoSuchElementException
 
 class Hamster(val name: String) {
   override fun toString(): String {
@@ -22,7 +23,16 @@ class Cage(private val maxCapacity: Int) {
     }
 
   fun get(name: String): Hamster {
-    TODO()
+    if (hamsters.isEmpty()) {
+      throw NoSuchElementException("Cage is empty")
+    }
+    hamsters.forEach {
+      if (it.toString() == "Hamster('$name')") {
+        return it
+      }
+    }
+
+    throw NoSuchElementException("No hamster called $name")
   }
 }
 

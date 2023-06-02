@@ -3,10 +3,11 @@ package propertyAccessorsExercise4
 import atomictest.eq
 
 class AccessCounter {
-
-
+// Implementing Open-Closed principe (SOLID)
+// Auxiliary variable
+private var _accesses = 0
   val accesses: Int
-    get() = TODO()
+    get() = ++_accesses
 }
 
 fun main() {
