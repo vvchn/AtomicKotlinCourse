@@ -14,7 +14,7 @@ class Rectangle(
 }
 
 fun Rectangle.coversZero(): Boolean =
-  TODO()
+  (x..x+width).contains(0) && (y..y+height).contains(0)
 
 fun main() {
   val first = Rectangle(-1, -1, 2, 2)
