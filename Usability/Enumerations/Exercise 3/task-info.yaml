@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 325
-    length: 6
+    length: 357
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 325
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: 2IutxpMATRymHlCcVOluLngaiPHHCrc4iOlB4wFA7lDrTAbxNdPz1VBaO6DVQ+uw1R2UMuLG4mbkdH9HNf0zr3iJfOsO+57Cx99DyH98frQV+MJ1K5dcODu+YTyqmB434hmTpvA7nIRTUSky4Cm68dNldQ30j9OtFKZaLHkjQvBwFNkdGGGoM74BKrG2Q1oy7OHXvfkGsDYcQEI/1xtv1J3w/8D80DcbRY94ZC1CPRZSJgLNMsRLUN1f2SKeaHvmVM4LHTJOBm5KL6APKNkmPPq7xzbIH5J9/tpdC0h4XRJLaTxtgHF1ZgU0gs3sBtfa
   encrypted_text: uwWEyx8VBG7rdfdwwyqxy5ajL/3eCyAbRS4avu5pHYoCksfOD99XYfP8qixYWOXTzot7i0+khQ9+Ggtl75wwRHq7fOPKIXU2eKvJAXJgXaowhKWaZG5SuzITB3iyhmcmB9mzVYBnYMJH09LmdP12202EpjZx/NCfuUi28Bnl5dtlfPZZUk7HNf5rNHJKaWfP3X007vRM18AZRo5OPlmnbtevSft7e3Hh+j7GJY0C4YbptBg2NcayWlQdAPx4FK30ER/Vq3fPPWsfg700tZRGmXiRzDIsFuANxQ/QN5rYcCmj0eelKhvQkruA37mIvjJ5vG+Ke01sAk4Z3HDQFECMC1us4TKDQ7vPUumU/AVrl6/ZYsud8/PVYYlzVj/n7kqvrRcv/ARfjWj03P1IjZIJ3kLtL3BSCkxIMS0imsSGgUV9UQxGeCd3CXkKtuu7RuxAGirZ3eUE36aQLn7zz/R3GTDd0huGUo6RpWW/cgDGqB2gssHG7rFFLJKftD1zwOnBgcJnX0uB8VwYgFj8V0Y6pdS/LvFR3D8pQ6wPIFkazvGcMpn40JvtVYGZ4oURbFYVofgkgXIhwqYLbI+sNiuQklKQSKwI8zv6rQy0Y0DTbb4=
   learner_created: false
@@ -21,5 +21,8 @@ files:
   learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Enumerations+%2F+Exercise3
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 19 Jun 2023 18:33:24 UTC"
 record: -1

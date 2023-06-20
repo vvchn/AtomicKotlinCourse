@@ -4,24 +4,24 @@ files:
   visible: true
   placeholders:
   - offset: 375
-    length: 6
+    length: 156
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 375
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: luIiC9a1qAXHGCeXxqQ9yssf7oIPPYAV7tE0lzh5o6EyVlpmvZ1SVTtHC8RtAM4OohE40JNnVdK4DTEFtaMAuSv9BsBOVzIsXVGb504FSxH7xCSJvScEMrGjFjUdrZd9JGwgmB3m8k12x+8LdXcgd+YmnHVyPoJXZvsKm2YkCFf2a0DlEDczmIdY7sFN5DLvxCbUNiq0L1ARLiVR7yI8RA==
-  - offset: 435
-    length: 6
+  - offset: 585
+    length: 155
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 435
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: luIiC9a1qAXHGCeXxqQ9yoLg7L9GRDyt56nbR4uC/+pkxoKMHaDyrdFmOD3A+7x0yPLKfGnNKlJ6Vwb6UJ+Y20/thm78RJMVY2kaiucGUAdi53YGS8naJ4U/tEdkIx3x5R3YbblVLUManx8SuPTrRR8b/knbyyMXqDCTXFVzldmWe6TZ6SkXYHXcHqY0O5z7G79tVysncQ/9v1jtgvTMwjf11vu5JwbOl2MEOPsAQlc=
   encrypted_text: uwWEyx8VBG7rdfdwwyqxy67Q43cT6vQzroL8oecEP8qKHNhhLGd9GFcHD9wCiNNaX+uU40jZdaEtPz3TZU/yOEjaU0I17sPhod58eiERJ6sgQzB7pXyYU8/+iN/KHdJZMVU3mbiqlNIC0NAAw4jqpg4lQxGn559CUQ5TjpBC/aBSGl5EeWwnoNfhZWGBSZtrsypnKFg2lHpT/H+R6r2WT2tctZSv3/BZBP3NdC8T0DYG/sRnIUQNCNdqcyFsEPO2Ej1aWCwPxx95PTWyGk3sVA7vmZbhtD4DC4MqdK56xoP7SFt8vAB+781/UpDWpQGq+coQy3WNlbl//HP9F8aJIthwfv7XEas5EfO2KLKmiVQ+MCvzLHFtu68uU6Fb4zxS4jI9rzKhWyvzHOnfOiPbnVxjbhzCaZ5PRAHxD5uQQ8jgZk+P84GOGQjWnloNxfnpu2i09pefZ9Adgiy/fbeL036JOk/faL6pUwSA5Av4aRR+f2hGYM12hcg5EsqT2l5dPKvy6L8SppGWuPfce40nmJaMR+fxg50vwr9cS3jAf6RpU8dohesEut4MiaOP/JlYcNQHHcYzXAm2KR3S3fqWrtDMfcoX2BIJTUzvR/xBmiM2H6J3m++PB79xE8vsxBcRo6HtAw9D8uZpDyocjOjrBzuvsouPnmMqVGFOGNcheRoc1JIQXj1c2g4Nv9tzrDGRYP4sUXwFV4fGKLWMkzqZDKOhguRY6hUGWmG4ilV0yKvamzaGH2Qhavazu5W7K/i06FREwZbavrmR9INPsLcignohMuLj6cqo7rKoKhZF3lvkXZMAZTdFuHHUircgJsiimY6Co2meOeq7/6b7RJLupWT+/0K9xLxqduSG2+r9USY=
   learner_created: false
@@ -31,5 +31,8 @@ files:
   learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Enumerations+%2F+Exercise2
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 19 Jun 2023 18:22:48 UTC"
 record: -1

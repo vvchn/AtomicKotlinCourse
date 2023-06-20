@@ -3,15 +3,15 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 250
-    length: 6
+  - offset: 251
+    length: 304
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 250
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: haIOyiWmjT4o059TZVeRJ/BnHBRQ8xkqE4ULGDc9k2qK+qzbe7acSTs4D8NLDXpFgAR5HP2dn3ZEity2oeEbdKwkRTj/ob+7jSqh9CiwWL4UnJVQwVMZvh9pDZqwiUejlHoQS0FkJMjSCjF8a9yBv9p4ezkH+gI5xEvtAM+w5MUD6PQ1ikXr4sPfynnHzPqNVsc7RjzkJZkzU9tbrobxxY2S68fvREy7CXqNZ0uIjHGGTr+QwGVLLfKKpt2JqLjwiMgaTPItijusHH+bJWq3n8FCkbXFgyfJfzFzcKZ1ONXVlZzyTwwoLTakvrwlbe9+osIn9dNc88LykUgItkHVkTqTAaFVpHn0OUzQzkb+xyQ=
   encrypted_text: xTnLdoTxOVbyjjkIqayFDD0bqZZLfySK42YK/r+ObBDzl3i84BmDWC9SqV/bEcoguagdSb2kzDo+36RPuacmJCf6AVM7Y9SVjPtC3nnurSFMbcHE2kXzFd5mKHxYHCQ2hUdm8Db69uRTo7j2GvfTRWtIWgH4DkX3K9c4458wZ0Qr9Zx3UD7ZE8E4w1xmwGiXYedjCbB5lp7yqgYow2zCnY5uOmv18nu+E4pkfpmLybJzcIi4TiyOL5z8g4AB48bynveh/BQI5J8qtQCWY4ptuU33O23ERXP4Xz9BskxAZQy2yccJi6AalmgTvv/a4FfcHhrnjw4erQGT87wJCrBgv3Egv5j9HesuQOBLo/dBh4Xr+s+528r3T+huYnbbZNnaJZWqtYhvIS5htdXmiS+nsHMe/eaojLdhwzfI4XUz+G6IH/8hR8IPbaa380+JS85i3TLbO9ZRMAv3qnpeWm+0hqiKfyXhsgZ6QA2PjK4pu6LkljYlRkdolqSOsrhXjMFb057OhQWWRai3ftZuINViVQpJIY1cDN9U7qd883H07LjrVUZ7dDGUABwTHYtfYtPLEZSGQrbLbIija8fdWCCHarKXhwMQvox3H5GuzuJo1tkK6ON4BRMjOnzMU0A2QtNREwnSgDHC+Ry46BYc169PU1/o1Dno3NQiVyViJwTcqowmdEGj44V+RXk8G1YArURVqAbHw+E3bF8N8/sVM6pLrmK3wgPBYutPjKjdqheNhH6lvDvRh7FAeJ6qO7MmEybkUehOF2UV5p+Q2DmTGD0shiALEc7/TXHZz4MYHYUE7b6wCKPOctpsbcvC08JMNbAxb9KZhIHDQZH2k9quFv1zOSMOwxsGMl2uC15ELheZRC50P/caImKEo9zc3iv+pEuW2CXcntEEevfPJZRi/kWabdzJDnPUaJSsij9PNGNkZZcvniUvyR8JVUrrMVbuyw510jbrx194Gqha2x0Q5efHrQXaCUYfhCGH4xXsnfoskLpxw2SyectarwseaRnNpoIOcb3jln+H2VFXpZua2g53msuaca/aod1XOHKtrLZZOitRCXqRkR2IW45Qh3Tqb6Y+bqHAMkcrFuIhpS++XOXkHjjzhwfUBznQdKsJsMA/xfKUf4UBry88ILp8o1YNNDFmt3063lWYMgEvU2CtuZMpK4mzzj7Vu0PymGob1Hinsz0zd/meKK/HMIxcOod2PbmpYMAUhYdcc6UWx4EsuLB2Fzjbg/3ym4jLVe6cWbLI06momIEjvbomtkVns4fnpbo8w7CDWgZMV3e2GRZglfJf4XnkWPckpXFHi4QCGajDfYBqQ9T1K015b+rNiM0K9mC4E+en/mFVFsgC11JDKj5dPs0rBIDe5VKXnWTTC9mK20kMhffh8AGRojzNeBCM+elBnVaRXUqDeE/8OaH83yFV+IgBCd769l6mGvVurzp3ib9UWAj76bnYAOCBHJOZO98VauhjnC61RaQyL1X2QxCWYw5ynDT8w73UN2g1Ab1fj1z3gEj5KtYOrW6LXGmTLUyQqz8wscpGVgAnVjZZ04QYXpbAjkRSoxOMl8UFf/MUiY+HSNzFSEHiFXxFgWpcKE6vkw2J0iUUBWxvY6vKKQlBc/DlzhKD/cWcCR/Kla0IGIn0XeRO+qNwC1KKnTFu4GAaqWLMnUyDvNXEc5AU7LehrYr8oBq2Ch5cI39r7V6ZtxTBcapnxuyPon5ZAbTwDezWnYqrTuMxVvU1XXqGGK1px4fT7ScKkE8NVbaytdy76IEwZ+/AMSBaoCy2pF+tdp7HrDCFwDl6BWF4h0DU2Fw3aS4kiZfNG+MzydpdXECbBV4vPrUyzX1vmRIErvZS07acRjkZ4CexHsgiR+zxmQ6+HtqbywNjPeAm0TfIXQil7NOvPK1oThhWfFuCuyXsA42f
   learner_created: false
@@ -21,5 +21,8 @@ files:
   learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Data+Classes+%2F+Exercise2
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 20 Jun 2023 16:28:13 UTC"
 record: -1
