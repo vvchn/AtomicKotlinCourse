@@ -4,12 +4,12 @@ import atomictest.eq
 
 fun calculate(
   n1: Int, n2: Int
-): Any /* replace with required type */ {
-  TODO()
+): Triple<Boolean, Int, Int> {
+  if (n1 < 0 || n2 < 0) return Triple(false, 0,0)
+  return Triple(true, n1 + n2, n1 * n2)
 }
 
 fun main() {
-/*
     val result = calculate(5, 7)
     result.first eq true
     result.second eq 12
@@ -19,5 +19,4 @@ fun main() {
     success eq true
     plus eq 24
     multiply eq 143
-*/
 }

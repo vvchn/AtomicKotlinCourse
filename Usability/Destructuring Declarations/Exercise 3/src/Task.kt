@@ -3,17 +3,17 @@ package destructuringDeclarationsExercise3
 
 data class Person(
   val name: String,
-  // TODO: add property here
+  val surname: String,
   val age: Int
 )
 
 fun displayPersonInfo(person: Person) {
   val (name, age) = person
-// TODO
+  print("Name: $name\nAge: $age\n")
 }
 
 fun main() {
-val person = Person("Alice",  30)
+val person = Person("Alice", "Johnson",  30)
 //  val person = Person("Alice", "Johnson", 30)
   displayPersonInfo(person)
 }

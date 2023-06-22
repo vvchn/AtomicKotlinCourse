@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 500
-    length: 6
+    length: 14
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 500
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: Naa4At0ZtFuVQrRdS4vZwQ==
   encrypted_text: xjDBVkmmbiWhopUO6Nlbh7jiZ5VVtdfMhuVouHxqu57q+Fm6kWaYmuayOeuVJc6B8Q518ZXb4USB93vGS1hh4gLNeMdfvldGHHYvxTW4IAnjVVQUNz9nWFDjiZ7OAuB7qJZAJWmvpRsUCK9otWNvor+5GZ9PhxzhWWa6J0AO/AVgHiDInorpKZN65wQ+I1p52Udx4GwJgeelD7aA3N+SozJB+1CpkOlRt9bE+9p8x0GqY18Rft0160As8Ylp9NzU/KIfy87AnvzjQFzbyD2GFENT4UlRVkwkNok9f5QNERtKR1Fca9IvBldY5j8mr/J2kGZKsqa4+59ePRjmEY2jzPG2eQZtekfmkh7AR7WzjVenx01SaM2k/NENHCeQ7MP9SS76EvqqF+VMaXTJUAMFKzkiMTkX9+qeXWvMon4uxe7zsa02pD+IYvNKs2Is9SoT9uGVDjOwwV6sy9eYHJdRwNO9MYHds1HAVXTV/nxiO3c4Iv8/C/n2olh9tWb76DO98GuXE8VRxZHEZldcYI2bIxWXvXRRyWaTO+EenfiOaOCZVwEFceWJRLrFP6fLvvI7IPYci9koqXeJGpH5B8pMZFCu4gx5Nz8QnCb/nFG40BpPSZF4w89xfbIBV2peMgj9USAEpp5jXD8HouWtJkF1KqXkU8km1krDQz81jFstTn7lqlkK/CeGO3F91XyobtG21+BWzW+AKDSGeFp1KK17M59PCqpCRt2JqaeTWatQLoQ/qa+mr975+TiUIAH3+pDI
   learner_created: false
@@ -21,5 +21,8 @@ files:
   learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Nullable+Types+%2F+Exercise1
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 22 Jun 2023 13:56:42 UTC"
 record: -1

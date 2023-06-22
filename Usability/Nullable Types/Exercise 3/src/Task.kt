@@ -3,7 +3,22 @@ package nullableTypesExercise3
 import atomictest.eq
 
 fun countHexadecimalNumbers(codes: List<String>): Map<Int, Int> {
-  TODO()
+  val counts = mutableMapOf<Int, Int>()
+  var buff: Int?
+
+  for (code in codes) {
+    buff = code.toIntOrNull(16)
+    if (buff != null) {
+      if (!counts.contains(buff)) {
+        counts += buff to 1
+      }
+      else {
+        counts[buff] = counts[buff]!! + 1
+      }
+    }
+  }
+
+  return counts
 }
 
 fun main() {
