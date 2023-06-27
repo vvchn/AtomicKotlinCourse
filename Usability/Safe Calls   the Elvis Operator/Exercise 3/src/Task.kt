@@ -14,9 +14,12 @@ data class Address(
   val city: String? = null,
   val street: String? = null)
 
+fun String?.check() = this ?: "Unspecified"
 
-
-fun Client.fullInfo(): String = TODO()
+fun Client.fullInfo(): String = "name: ${this.name}\n" + ("email: ${this.personalInfo?.email.check()}\n") +
+        ("country: ${this.personalInfo?.address?.country.check()}\n") +
+        ("city: ${this.personalInfo?.address?.city.check()}\n") +
+        ("street: ${this.personalInfo?.address?.street.check()}")
 
 fun main() {
   val alice = Client("Alice",

@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 411
-    length: 6
+    length: 45
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 411
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: rXMyeUvcHgGLPzDg1pEO5uUfb3+LQf5bci4X/L2HZYbvcRPNim84sEplcr8ebUmg
   encrypted_text: NM8HI+iPyUrYSzSuYKr9SZKPSMjIJdJ22eSI0vEpP+CWOiui/tts55rcMQo8/xGhcQvlBDDcNBzZk6LQgjV8eOSyAGcE/qBPcZJm9TqkTYTRiAcEQtWLjk6y3zfWvpUMCvEudBxvIL0ksroY3neFLHq6Cw78rTM4Ij2mbg0f8AUqzlWybtRWYDD3/tSChbvosPTf0Z6/PP7aPr6vzbxVUIGdfmcF2TrL6qzZLUwYn39FbSybvNuvEBezmczqcTBX6EK1NkBnp+34mhtVEOnTtylT8cvogA2R7/rvBfqnhmiNOqBlzTuMif1WNHPoWwhs97+akleWu18BoU+afaFq7StchKd73U8qfINGzxeZi557kJ18NID6mq6a4fc8feFoogqTm3pcwnI2YuP79Ias8LywXWP4I9MxuZuTNys0xx8JUT85aGIik1Sg2UuDTHmAKCykGZpCUCf/5Rg50Oo9b5YFmqAt0+NefBItIjMRlSRylgms7Caf+zrw/62+BC8Q5ji8ik3Jv/jPzkElt1ujydeziIAfruuaxdj3rnLkJf8qBe27w5fcSwBQurdwNkMSWmhVCQjzuS252vLL44NSn+8JswB7cRvy+22bnoBDfvC/BR4Rvhn96uTOHCSrtGZebDUAt8EDAn4+B3pCGHxZ21ixRUXNyeEyYl/vZep7hJTT7QFsRM9mJJKS+gFuZ79v8NR9EcipThEGpImR16xJsqX8QVMKD2d0nwie+8z1GbSHrq3MAPvUMoeboSKi+faLbQJmr7wnZd7trh+bWNlKWw==
   learner_created: false
@@ -21,5 +21,8 @@ files:
   learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Safe+Calls+%26+the+Elvis+Operator+%2F+Exercise1
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 23 Jun 2023 16:24:12 UTC"
 record: -1
