@@ -3,25 +3,25 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 125
-    length: 6
+  - offset: 140
+    length: 44
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 125
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: oInStMAgW7lnVHaluTToTw==
-  - offset: 175
-    length: 6
+  - offset: 250
+    length: 51
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 175
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: 19PCBMn26p4sBaFY7Ws8nVePzK+FzVlx0wjVSk/6gUY=
   encrypted_text: euk4cY2TJBQW3SzeiSn5KoXlwZNCEqNThl7tfVV6pfcQ1QsjPI96+NwWsfaBIFRL2q6rkSer/rMtbF7Q7p5FOFca0ShqylQV5C8E21IHS+kYT2gbZkyaVtU9XH/ba0ywSsbxVmsOyYVeMaRVW9MOpqOXMlADK5/XeOC8eAQh3b8LeL3uNQOTD0qOkNaLC2Xxnl0RPSMg3vqoG3o8kirSOL/dbm3z318V6uhrPxUUWrwlA5ukKVabeIVQ440RWAfqWmWsCZTGVh5ul3UbU4dkC4cQhqPI55DkX4XRjjNJI6taQ13/p6W4foplHLySrlvATVoSR4kwGFBItlXAFcluyJPzy4mCA2tBXRrxJER54WsrYABUg51fSe48hxASvrJZlzFIcKEfpMRJy7DoiyEdpST2dArM48cde4WxSc/GnJAo9SFZpmMutf2sOQN9EMEGbFqVgHMfQvyEmggsJzgSjDYs4p7IPwHE5ofHHNdTRw7zlQZX1M0UWKwvVgY6IFi+/Z3EY/5QxNOCSNs2NDjZAQ==
   learner_created: false
@@ -31,5 +31,8 @@ files:
   learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Usability+%2F+Introduction+to+Generics+%2F+Exercise1
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 28 Jun 2023 15:58:22 UTC"
 record: -1

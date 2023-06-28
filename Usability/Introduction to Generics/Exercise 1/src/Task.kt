@@ -1,10 +1,10 @@
 // IntroGenerics/Task1.kt
 package introductionToGenericsExercise1
 import atomictest.eq
-
-fun <T> List<T>.secondOrNull(): T? = TODO()
-
-fun <T> List<T>.penultimateOrNull(): T? = TODO()
+// getOrNull(1)
+fun <T> List<T>.secondOrNull(): T? = if (isEmpty() || size < 2) null else this[1]
+// getOrNull(size - 2)
+fun <T> List<T>.penultimateOrNull(): T? = if (isEmpty() || size < 2) null else this[size - 2]
 
 fun main() {
   val ints = listOf(1, 2, 3)
