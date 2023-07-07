@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 211
-    length: 6
+    length: 31
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 211
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: vxOH3CWDH5LpZJq+iLgqAk364IJfhXBU3I50XzGYRA4=
   encrypted_text: OOSkSAmwCdTCdf+OuMDEk8Q/ittH4vbLNOvxcyF8Y1/FqboXVW4iyjLT8aKq/ouHCC6Dzl2F3TQnk/KOmw0xVTMqsqoQw/Y+LoDiSdyKEyFMhXTGdiO3InYCtkCTWJ6LxPW5wJCwF0FV1DJY58AXupS6MCCnvacn5AR7X3KbPebltXUaSi45dlaBHnd9jXlN+JyV7HdW37W+6k4a4Ff6W1LewZ0z5szCmtOgdbuf+NuQDTTgqbJp0s8sse75Fy7GW3XZty3U7k5Tm46kDWiYTwDQaee9vGbQeO/Sh/R3tSPfDBa6W5XPEDMHO8HqTMInxygrobvUjaWnPSo6xOHTNQn0XRQvZBYLYwwJkjtrrW8pSKjygur7bGEnNAdS51tYGfhzjTO5kk0P4LQ9duF0FmcUiGXuGLOgB9qe6n2LIiVSe3YG5hNaGxvc0fDn5hhtLFC+YuQLRMkPBWe/ckUalio+w2k9Bs6pE1g45LFRbXX9io1ePLdY8HlEhWkCM6Q0Hu49xbE+Zh/INKKe4K8tD6TiR1bJmNtMWjYNiXG6IuV0eRUwluRMHVD/RqAhc2JIFxxvT3kPhU2A7nQOwdxi2AW1lLkN80tWL5tEJLFM7jYiO3esHWJSMNYTRZfGqxQyDG9oJGMp4WX6Ru7fJyvgQ7Qozmn5cKZGE+Wrn5nhSDpHgAa3cU1ou75GwLpbiwiQMqGuQMhp0wsvvrZgu8+N8CzADEkcfGuVfoywut22N0/YL69VlIFOE2o1hwZ/Fv+VegqCby1hPEwQ8+AlT0LSN15LIFCVw8GyN9jdcsJmh/LAtWfTAcKxwYf0OcvC8HAnq9NTFt8dcoU+cyPdwlWXhe2JQImXpI2uOfHdbYzKN10bUpL77JoxhRd1BrFkI/qUnyH69trZrChqUHRJ0315fLMSsVhxPGvMtfPjqH3trdOwJfcqVg8HoR+nffc6YiS/s4qJ5jUf5IrgxQxte1M7Bg==
   learner_created: false
@@ -21,5 +21,8 @@ files:
   learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Lambdas+%2F+Exercise2
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 07 Jul 2023 19:23:07 UTC"
 record: -1

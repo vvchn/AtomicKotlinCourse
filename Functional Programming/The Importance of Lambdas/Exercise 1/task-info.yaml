@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 194
-    length: 6
+    length: 43
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 194
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: 3k+UA7brkiTe5/4nVjmJ4bLv2QVSPWi7CQ5boRAdK4TgWbA8QCW85MHZmVbpKXql
   encrypted_text: Lk3HFBZEWgfB6GZheT2tWTzAroUGNWTnDGXdKdghTd38veJ01KixN4Gh9TlEHJE0m1fHwuGuYbYkw9HgEMdU23X1RULF+jCb/qfNRipgodKDIYZnWR2/tQsq07pTOLiOTV8na+qqxSPAW5kGW51Is2WxhYGcNzT1746qiG1zP5Cfyf07oLjEEDmLrCu7GEHm3hFCzkHZtO6VrSeGbiWmLiFnAqOyo0FNltLmgclxFFJ7hsKKfIIk93W717Un0QJm6zX2PTRIF9YMgLQJhBRfRwV6JL+pHRvhe0B2SEN2glxgATEuVC8VFlWKi/mreXPxAMisaxRNobLwyjvRoDBuFH/UhyGnSJbLoRwwImuC8nX7f9boFMIo4tNWkQkP4d56Yjyn3kks9sY4E8L0S004gZ493D/XdJQ+fvvdJUmnnylagRe9gVCKhffSXOCiiOnY
   learner_created: false
@@ -21,5 +21,8 @@ files:
   learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+The+Importance+of+Lambdas+%2F+Exercise1
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 07 Jul 2023 20:45:47 UTC"
 record: -1
