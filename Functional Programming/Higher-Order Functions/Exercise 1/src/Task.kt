@@ -4,7 +4,7 @@ import atomictest.eq
 
 fun <T, R> List<T>.map(transform: (T) -> R): List<R> {
   val result = mutableListOf<R>()
-  TODO()
+  forEach { result += transform(it) }
   return result
 }
 

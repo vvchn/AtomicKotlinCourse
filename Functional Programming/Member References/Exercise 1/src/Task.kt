@@ -15,17 +15,19 @@ enum class Habitat {
   fun livesIn(pet: Pet) = pet.habitat == this
 }
 
+// fun Pet.landComparator(): Boolean = LAND.livesIn(this)
+
 fun List<Pet>.liveOnLand(): List<Pet> =
-  TODO()
+  filter(LAND::livesIn)
 
 fun List<Pet>.liveInWater(): List<Pet> =
-  TODO()
+  filter(WATER::livesIn)
 
 fun List<Pet>.areAmphibious(): List<Pet> =
-  TODO()
+  filter(AMPHIBIOUS::livesIn)
 
 fun List<Pet>.partitionAmphibious(): Pair<List<Pet>, List<Pet>> =
-  TODO()
+  partition(AMPHIBIOUS::livesIn)
 
 fun main() {
   val pets = listOf(

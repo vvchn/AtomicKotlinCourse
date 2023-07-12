@@ -3,15 +3,15 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 244
-    length: 6
+  - offset: 286
+    length: 35
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 244
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: EhkYr/ufQK/+ONP8NunO8+Ht+q1MVqWS7jZcUhUw00A35kKGGjXxhJvXPITzM/Q9
   encrypted_text: qe+wgl1g0oyPByA2dKBtRvmqXYk4tuqkQHy4yBbUyyVQ9q9YuWXhujG+XRWdn4/RtXFbfKqTcTf9EFKACxA9b6rMryUSPuK3SotjKiFr/RPhJP2tKKGMbAzpsaUn192t/x0/QbW8bDEBR/iHtubE2aJ47+AYs2KicBUxLtnJtSttHM4A3TwKj+MCiwS7jqjB2epWzKWxQoe5KggagtRCayxdADh25opmo4r4bzdAEUAK+B6mnYfArRP4qTLoSs5rbU7KT9nVAteJJhSunusPXcQugyHYXFI4fVZEsKHp2EwrL9HqXeHug+JDmRBoXPO41IgMVqcHXK2tAYR/FfTWTjjZrrnA8rB++8OGE5g9nQuKv613Tiqy5Mj/ycA5/2UVn3ut2ZA1tEdTFAyoF/LY8H1Mwrj6uVuPmBAhm4GOCIpICyEIuDBoJLGQYYJzF7a5uclqYeh+nMuAPhE2LtLBmr6v6Yj5RqFJr7MKNv9QhjZd3vMC0Q+tMfez/4+DSs7J
   learner_created: false
@@ -21,5 +21,8 @@ files:
   learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Function+Types+%2F+Exercise2
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 11 Jul 2023 16:31:55 UTC"
 record: -1

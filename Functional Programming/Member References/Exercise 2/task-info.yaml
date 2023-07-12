@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 337
-    length: 54
+    length: 90
     placeholder_text: TODO("compareByDescending(???).then(compareBy(???)))")
     initial_state:
       length: 54
       offset: 337
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: rr49ZQI52+VB6buorCAmtbHNYCWODQlAFAJfKnAyBzEDbhz29Tftf068RUNlobJbbXRROzgf7XODrgbKMWSUHLvZ5kAfR7ZbkZdaw0Q856Oj6nJGV966o4frZ87h1g8T
   encrypted_text: HB4kHzkz/t9lW60bwJc9dsb8N3kFXKWlru3peVlC7vK2mIzuamJ0Jjt9T8c2HPhriaeukB3pCYwOWgPPMDNDW65Y8gDWCtmCdsQ3V27jm+UKtMZM67CjxPQtkW40VVx9yq5nIa1UdweuC3gIglMYv8eIRr2BrA0NrAl4/qOV83EMmYPBlNMQa7/IYaQ91sTFMiJJNmK0mZwn3+asimTbPNR4E6oaNUcfg4bw5cNfWo++NeOw1Dw0Uo+gh6GQ6QrSBlT7/Rl/fwgyTrYMY7aws7J+pa11i1ZN9X7KEYhEIsn7dy954BspAE3YTbMqut9mTCwbLtidQEMDrf8+mLiMPkR/X9phzyQZrvPch/FIGby7I6EOPjpZGb6+oHWE5pyp+f/1dY2LQOO2F3FIM38VKzYSLVLSK9D+afjHdp6+Ywfvy3rDdS/zXxX8xnTaz32S0tHiOC7ZajLp/NIKZYceJJqwKI8AZqhk8rlPIukC1CwQmXXaypE1fBghY5C45helutiPZcG5uV/S79ABmHY2uMHJJcIbYoj1SE9+9E26RuIik+cv+X4Em5eqKYXQfzn7ufn4bk8Jf5PxLMw5jNRr3cLWFa2+7AzqOIAsAvr/Migz8QQF6F/JHgyOzNRgbwu1pU3LZE1zBoPZgQTNj77X4cflZfP773/KbHoMxJQ5nR34Bv2EXnRLKmTBq4WBO3zFtwU99/4FMgG1Z3E0iCgYE8IUibHfPGwAqEWI1g/Eylry72C9X9co/34gFzaOacXdRnSCrr2v0DQyia+B5L5soWdLw3N2Kdz0fuglN3RWECwagAzANgJ9CN3CUMkGTuuZWUQOBqmJOofGoPKZKJc6wGKbSdYoKQyVsFt2yYIejvI=
   learner_created: false
@@ -21,5 +21,8 @@ files:
   learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Member+References+%2F+Exercise1
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 11 Jul 2023 12:12:03 UTC"
 record: -1

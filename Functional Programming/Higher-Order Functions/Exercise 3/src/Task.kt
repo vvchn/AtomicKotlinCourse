@@ -6,7 +6,10 @@ fun <T, R : Any> Iterable<T>.mapIndexedNotNull(
   transform: (Int, T) -> R?
 ): List<R> {
   val result = mutableListOf<R>()
-  TODO()
+  forEachIndexed {index, t ->
+    val temp = transform(index, t)
+    if (temp != null) result += temp
+  }
   return result
 }
 
