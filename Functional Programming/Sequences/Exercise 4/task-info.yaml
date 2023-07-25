@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 115
-    length: 6
+    length: 146
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 115
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: QZR/fBRyH2pacwhIqKBuXQ0OE76sjL3aVDmLenMWQtp4O1VGgMLif41k77Qo1DEEF9spWeYaCPUDDReteXjaRqUymDGAibAWjynTsVsUY0h85vO+sPmxXFtKTWnyqj0v+8Ag9xrtDOV8kJXlj2ts8Vi1V4KGIkwBYrnMX3zRwXnG+svZvpvxpvWx1iuf2YRg
   encrypted_text: dK5Ngj/ftfK2gdTs7fhYV/PABsWqEA33qJqOecOjiTh8zDMtfcyF2GvHSZZZ4lJqeVD5AkSYsRgVckJ57hA1T7hTu/EDk6pP8HT15e9TRDH0vqqQiydyS2YoUv3E+WGv89y8osXXBSBLw1MkogADFmW1i/W7ZakQcu0U48fHmI8=
   learner_created: false
@@ -25,5 +25,8 @@ files:
   learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Sequences+%2F+Exercise4
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 25 Jul 2023 11:13:08 UTC"
 record: -1

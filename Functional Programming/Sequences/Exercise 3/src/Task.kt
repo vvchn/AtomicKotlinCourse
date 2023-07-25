@@ -2,4 +2,5 @@
 package sequencesExercise3
 
 fun School.averageInstructorRating(instructor: Instructor): Double =
-  TODO()
+  lessons.filter { instructor == it.instructor }.flatMap { it.rating.values}.average()
+// .flatMap { it.rating.values.asSequence() }

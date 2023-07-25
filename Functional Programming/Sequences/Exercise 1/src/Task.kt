@@ -2,8 +2,10 @@
 package sequencesExercise1
 
 fun School.commonLessons(
-  instructor: Instructor,
-  student: Student
+    instructor: Instructor,
+    student: Student
 ): Sequence<Lesson> {
-  TODO()
+    return lessons.filter { it.instructor == instructor && student in it.students}
 }
+
+//  return lessons.toList().filter { it.instructor == instructor && student in it.students}.asSequence()

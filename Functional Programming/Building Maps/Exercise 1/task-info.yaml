@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 194
-    length: 6
+    length: 46
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 194
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: 0ZfpGnwYS68WtG0QAInucSPjf0f3pSiwvfw28TsidwNhw+czYkh3yGe+VhlDg1aN1Ldd7hQTOVmvsC5MffcNS53eRUswbfqrUpEbZKXCKG38VA9SmXUGwssMZEm2JQA5
   encrypted_text: t1dFIAz2qRapdLbqXwm/lG8IV6Nry0Lh6APNzg1IXMcYar6oEA5NUYGDv6NRN2kApjxA8KTmulNoBc/azi9FU8A39JCjKinTZZqVd1/8/KjM90EU7iNIHAGTis/mpTACRXBKnts1H4W5ApXNDy55+WDtdNHKWsf/I7tEQeIxBE5i09P5s1HGPYyGmTx3SCzRDGQZ1YGqED0/IS6xhqPdOakPXxvquXTRQfyBzlI9qwbFrAux1jpFxJi9hafbasMm1zMOgGgddtQS/euwWjAI4srL6hxgKutVR2ah1hP3oc4i6gbwV7Jfmk4do5Krqp1wCuf8aYLLljjQES5ONWLaEOJOtB7OuQXqZEB9i1cXidDljVr8UjCM84MUZchEDW69zcraWZDFl9OYdfV9X4BAgWeNw0Hi/DccYm0xAFNTxLimEYpZgBLH65tDXSTe3nGccxIOAShPvdW7Ah6ghgUNsdu6yRTClnsdmk/ui0IpFL2tng74cHn7aCDjtJtrwidI9b6YHDIAtbMvERrk6HmrPGpyd9kj3NiJZrEsXdfUNoM=
   learner_created: false
@@ -21,5 +21,8 @@ files:
   learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+From+Lists+to+Maps+%2F+Exercise1
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 19 Jul 2023 14:58:00 UTC"
 record: -1

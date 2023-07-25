@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 146
-    length: 24
+    length: 50
     placeholder_text: TODO("groupBy(???).???")
     initial_state:
       length: 24
       offset: 146
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: j6uBXmB9WxmTfabVIs+wD1e2tu0/Fz9HZy40JtuZkxc+yCtIvIp++2WPVLY5X65lhk9/4sHdgRL6xGg6Qj5h4w==
   encrypted_text: t1dFIAz2qRapdLbqXwm/lMPv9auYZEarLijVErLdaHttg0IcmTOJNSPdI67BvttaEal+Bl86m4oyweWdz4qhKcKs6nQKYKeWAAUKF8UEhOTCTtTYEXMOSWz95OE4o+NR79UPJMstKfe47sC3E/3+AWNWD/cZAuh7dV1H1bWbdDEHRaXgv9oOBz20Sfe001A3GGeZvcpFI15VCUrl5Ggp8sIlC6TALWuWUJmbsGtDpLLTnWlkhNZRcpc7BeFJK/RQD7tCZXZjHDX3omz7FqGF4I0jHeNirQjeOlby2zFSu6XDujhP2UZ7JA0z7beCPIfDbYTMpcCRoMVdedsY9wYWfJGvb8awEDtxJG2QCsl9JH/Fbr6C+7MtPqhVNuGJVT15JgwxDDEIGo1WTmu3nbuRrk1XWZOIEVwUUBuCJQRiGYb73mX0ykUwv4oKCd1uy2uq3hXmdefE4YUCsocWK34I8+IWVyulNX2iAy9YEg7Pln+5eio8yeb3H7GJz4uAZtxBzFKBSTwKXlv8LYgEcjlGLb+irmmtJlynqwF9sTAKXuMTn4+5YkwKy5VhdACku/qyA9Kg6QHF85fQw84MG7IvlMQLwKWUH9Z4cBeaaOVgWWh8e1/U0MAcj+4qTOaxVQPV5AkJtfkOC0b4gMpZnRKiBg==
   learner_created: false
@@ -21,5 +21,8 @@ files:
   learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+From+Lists+to+Maps+%2F+Exercise3
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 19 Jul 2023 17:53:54 UTC"
 record: -1

@@ -1,6 +1,7 @@
 // ManipulatingLists/Task4.kt
 package manipulatingListsExercise4
 import atomictest.eq
+import manipulatingListsExercise5.flatMap
 
 class Person(
   val name: String
@@ -11,7 +12,10 @@ class Person(
 }
 
 fun friendSuggestions(person: Person): Set<Person> {
-  TODO()
+  val res = mutableSetOf<Person>()
+  person.friends.forEach { res += it.friends.filter { !person.friends.contains(it)} }
+  res.remove(person)
+  return res
 }
 
 fun main() {

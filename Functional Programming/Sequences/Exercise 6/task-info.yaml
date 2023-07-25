@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 105
-    length: 6
+    length: 30
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 105
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: BPDUsCYIxR8wLg9YmsW9lJeT1TLEAp2Dm7ljPxreGCc=
   encrypted_text: dK5Ngj/ftfK2gdTs7fhYVwWAIK//LFH0TjABKTUQs1v84gBAkD0NSQFXK8iRMGd/8UixsQMYUNvu/ddQsXk4W78isBQ0LGnkHMRkjJznIwFF2V62+x0TR9X0JoRK3RAnMbCaJWQuB6nN69++G+JrgU/Q11vmvoEB5AU2APpky0OQfLS5absu89fE9lJpC4WuFM39vwNiBn80mvF8N1EHTwPLJE0QhMxs257QvjAkIE0=
   learner_created: false
@@ -21,5 +21,8 @@ files:
   learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+More+Library+Functions+%2F+Exercise1
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 25 Jul 2023 12:19:53 UTC"
 record: -1
