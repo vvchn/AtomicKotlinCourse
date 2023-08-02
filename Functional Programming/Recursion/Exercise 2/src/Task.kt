@@ -2,8 +2,13 @@
 package recursionExercise2
 import atomictest.eq
 
+tailrec fun fucktorial(number: Long, remainder: Long): Long {
+  if (number < 1) return remainder
+  return fucktorial(number - 1, remainder * number)
+}
+
 fun factorial(n: Long): Long {
-  TODO()
+  return fucktorial(n, 1)
 }
 
 fun main() {

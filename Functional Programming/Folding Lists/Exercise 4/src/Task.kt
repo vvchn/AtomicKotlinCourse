@@ -6,8 +6,8 @@ class Condition(val check: (Int) -> Boolean)
 
 fun Condition.combine(other: Condition): Condition =
   Condition { check(it) && other.check(it) }
-
-fun List<Condition>.combineAll(): Condition = reduce(TODO())
+//                                                  () {acc, next -> acc.combine(next)}
+fun List<Condition>.combineAll(): Condition = reduce(Condition::combine)
 
 fun main() {
   val isPositive = Condition { it > 0 }

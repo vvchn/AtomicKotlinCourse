@@ -3,7 +3,7 @@ package foldingListsExercise3
 import atomictest.eq
 
 fun <T> List<T>.any(predicate: (T) -> Boolean): Boolean =
-  TODO("fold(???) { ??? }")
+  fold(false) { d, it -> if(predicate(it)) return true else d }
 
 fun main() {
   val list = listOf(1, -2, 3)

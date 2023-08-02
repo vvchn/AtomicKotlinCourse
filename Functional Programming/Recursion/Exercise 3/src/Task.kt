@@ -18,7 +18,15 @@ fun fibonacciRecursive(n: Int): Long {
 }
 
 fun fibonacciIterative(n: Int): Long {
-  TODO()
+  var curr = 0L
+  var n1 = 1L
+  var n2 = n1 + curr
+  for (i in 0 until n) {
+    n2 = n1 + curr
+    curr = n1
+    n1 = n2
+  }
+  return curr
 }
 
 fun main() {

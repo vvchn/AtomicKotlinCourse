@@ -21,7 +21,9 @@ fun City.allReachableRecursive(): Set<City> {
   // Add all connections reachable
   // from 'current' city to 'connections' Set
   fun addConnectionsFrom(current: City) {
-    TODO()
+    if (connections.contains(current)) return
+    connections += current
+    current.connections.forEach { addConnectionsFrom(it) }
   }
 
   addConnectionsFrom(this)
@@ -40,7 +42,10 @@ fun City.allReachableIterative(): Set<City> {
   // - Add it to 'connections'
   // - Mark all its connections as 'to be analyzed'
   while (toBeAnalyzed.isNotEmpty()) {
-    TODO()
+    connections += toBeAnalyzed.first()
+    toBeAnalyzed += toBeAnalyzed.first().connections
+    toBeAnalyzed -= toBeAnalyzed.first()
+    toBeAnalyzed -= connections
   }
   return connections
 }

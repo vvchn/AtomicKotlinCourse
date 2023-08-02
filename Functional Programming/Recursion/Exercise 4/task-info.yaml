@@ -4,24 +4,24 @@ files:
   visible: true
   placeholders:
   - offset: 619
-    length: 6
+    length: 127
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 619
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: t74QbMbKUGnooea4+8m+nKWQPy2oJLxmu/5887Rb5PMd+AT1n/6Dgxz5vFAEmE5Uw7aS/8e/XD5Sdgsozuxpk3KTHXrrnuQn70oMjd/9VXWrkWIfQ5XOAuFh/vhkMCusA7sDJLEjB0MvPCNUSiocOmBtJ3HOf1oTgfHxM9/1WYxajVt6vys1LdeUc2C4gCkd
-  - offset: 1217
-    length: 6
+  - offset: 1338
+    length: 162
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 1217
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: 4ulPg+nR4jhQhNNw9oUz6FmxmfY5bw5sw2Ed+vlFUzRhSzY1KmZT52BL8k+dT+TZNSsJL7h59tJC697Q0GnchH1LH+9jEAse6FQXwSqu9zh/Z7v3XFL0YimcvP4fAieUQ32cH+rOevHX2NiroCctCeZRd/LuM0LEZjH0rrz2PX0+MssBS2llH48jTGl5nksU9heH/GdJk9FPs+joprhxSpyHNmWhmOPnypXSeHcltCCUrOxqKZ8rPwzF5IEcuiXbX0mzTtwRwWobvzDae/gPSQ==
   encrypted_text: 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
   learner_created: false
@@ -31,5 +31,8 @@ files:
   learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Recursion+%2F+Exercise3
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 02 Aug 2023 15:49:22 UTC"
 record: -1

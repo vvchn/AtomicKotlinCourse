@@ -3,15 +3,15 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 275
-    length: 6
+  - offset: 362
+    length: 19
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 275
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: 8h1bxoSULDf7WUwpgHMtcvsKWFS78yc+9hBcHDMvnfs=
   encrypted_text: 1cBb02GqHEYAaL7A2koyMbnRo53/SPVwWvq/gSv4rynckHVD5OyFIFDDONhHvfNf2P0dXFSFts4hr7VwWgmLIwvw5pO49hQDik/JYdVYwRsMRl23KxqLiEnwXfxAKPHkBEbPIGaDDtxw1iznXDayk3tsMtmSvnZT91URGP3wVDHeQ0S0hqfOs9/Wvp3BPSbIMlU6tiibJPAVwZubb9EiO08tp7x1u+vAv0cbR0wcM8rubbukFaXDyyTyN6qsN6UEynvIB3kPWnkrpVShBQ0iw1LizOHsAbmyHPVCGmoRNc/whBXYmPp8Nha8fKLCakrnrYGE/kPFSqwRg0pLmOlepd/UdoH6iLgyBo6m61VjjFGEFHnpQodq1Nx/jmYXEUdm13XUwuneq5l641CqTPtM5HB+p7e837+kFlVCXQCzbIwVDMK5Lp2/iHLM2Ze11hXSMHpFLCwofNULe3CIZN3kg/lvo2CVKieYMlUbr4L6IyfOnIMAvUr/kE+v8I/A4KqWoxKEXzwwQyvKqBItq1ohFlw7Px+NtRoQqqoChJ0t5/KNLH1uKqez9TcV6qHzSYksTeCa5/WUGJijcmZo0ZdFfNYOTDkivpGhhb41hHWB5yxuEDMa8IU2qV3BN7uI8nxyRj+6+yQOWwTw7rNe075B5BmE4Sj/vGfx3kNXvQXeQhSNxIYdLSCGF0q7rX49flwrkCoQ+b14DvWo3vFeNt/W6VIAtdp6Csp01ztCTIoTkjwSFZr+NamvVHc2hPQuOaGRfNw9Kn9X3DOfO3kw/LQkkaftXSJHgAbxbSMZe801m50c+YYDcD7wavAijqQd0dx2EHomHEpQpmrM/7busN4OS83WpcK0kUeQo1efyurNXlZnRKcWzouHGaKseaM4jy2ykbP9U2gsfVcWvKPxWjXA8A==
   learner_created: false
@@ -21,5 +21,8 @@ files:
   learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Functional+Programming+%2F+Folding+Lists+%2F+Exercise4
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 01 Aug 2023 13:38:49 UTC"
 record: -1
