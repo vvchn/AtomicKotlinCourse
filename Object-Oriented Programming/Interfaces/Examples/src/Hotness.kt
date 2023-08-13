@@ -26,6 +26,8 @@ enum class SpiceLevel : Hotness {
 }
 
 fun main() {
+  // Deprecated. Use .entries instead
+  // SpiceLevel.entries.map { it.feedback() }
   SpiceLevel.values().map { it.feedback() } eq
     "[It adds flavor!, " +
     "Is it warm in here?, " +
