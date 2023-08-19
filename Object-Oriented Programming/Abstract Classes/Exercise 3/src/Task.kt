@@ -6,24 +6,15 @@ enum class Note {
   A, B, C, D, E, F, G
 }
 
-abstract class Instrument {
-  abstract fun play(n: Note): String
+open class Instrument(val name: String, val action: String) {
+  fun play(n: Note) = "$name $action $n"
 }
 
-class Wind : Instrument() {
-  override fun play(n: Note) =
-    "Wind blow $n"
-}
+class Wind : Instrument("Wind", "blow")
 
-class Percussion : Instrument() {
-  override fun play(n: Note) =
-    "Percussion strike $n"
-}
+class Percussion : Instrument("Percussion", "strike")
 
-class Stringed : Instrument() {
-  override fun play(n: Note) =
-    "Stringed pluck $n"
-}
+class Stringed : Instrument("Stringed", "pluck")
 
 fun tune(i: Instrument) = i.play(Note.C)
 
