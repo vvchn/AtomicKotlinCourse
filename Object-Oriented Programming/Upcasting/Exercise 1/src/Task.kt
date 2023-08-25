@@ -19,7 +19,10 @@ class KangarooRat: Rodent {
 }
 
 fun upcast(rodent: Rodent) {
-  TODO()
+  trace(rodent.eat())
+  trace(rodent.speak())
+  // Unresolved reference: jump
+  // trace(rodent.jump())
 }
 
 fun main() {

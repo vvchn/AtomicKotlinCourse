@@ -8,6 +8,7 @@ open class Animal {
   }
   open fun jump() {
     trace("Animal: jump")
+    // Runtime polymorphism
     talk()
   }
 }
@@ -22,9 +23,21 @@ class Frog : Animal() {
     super.jump()
   }
 }
+/*
+Frog.jump() -> Animal.jump() -> Frog.talk() -> Animal.talk()
 
+Frog: jump
+Animal: jump
+Frog: talk
+Animal: talk
+*/
 fun main() {
   val animal: Animal = Frog()
   animal.jump()
-  trace eq TODO()
+  trace eq """
+    Frog: jump
+    Animal: jump
+    Frog: talk
+    Animal: talk
+  """
 }

@@ -2,14 +2,16 @@
 package compositionExercise2
 import atomictest.*
 
-class Stack<E> : ArrayList<E>() {
-  fun push(e: E) = add(e)
-  fun pop(): E = removeLast()
+class Stack<E> {
+  private val stack = ArrayList<E>()
+  fun push(e: E) = stack.add(e)
+  fun pop(): E = stack.removeLast()
 }
 
-class Queue<E>: ArrayList<E>() {
-  fun put(e: E) = add(e)
-  fun poll(): E = removeFirst()
+class Queue<E> {
+  private val queue = ArrayList<E>()
+  fun put(e: E) = queue.add(e)
+  fun poll(): E = queue.removeFirst()
 }
 
 fun main() {

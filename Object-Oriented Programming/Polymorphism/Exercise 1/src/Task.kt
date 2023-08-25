@@ -1,6 +1,7 @@
 // Polymorphism/Task1.kt
 package polymorphismExercise1
 import atomictest.*
+import usingoperators.F
 
 abstract class Character(val name: String) {
   abstract fun play(): String
@@ -34,9 +35,13 @@ class FightingElf :
     super.play() + fight()
 }
 
-class Dragon
+class Dragon : Character("Dragon"), Flyer {
+  override fun play() = super.fly()
+}
 
-class Wizard
+class Wizard: Character("Wizard"), Magician, Flyer {
+  override fun play() = doMagic() + fly()
+}
 
 fun Character.playTurn() = name + ": " + play()
 
@@ -47,7 +52,7 @@ fun main() {
     FightingElf(),
     Dragon(),
     Wizard()
-  ).map { TODO() } eq
+  ).map { it.playTurn() } eq
     "[Warrior: Fight!, Elf: Magic!, " +
     "FightingElf: Magic!Fight!, " +
     "Dragon: Fly!, Wizard: Magic!Fly!]"
