@@ -34,15 +34,20 @@ fun interactWithCrocodile(crocodile: Crocodile) {
 
 class CrocoDuck(
   val crocodile: Crocodile
-)
+) : Duck {
+  override fun quack() = crocodile.bite()
+
+  override fun swim() = crocodile.bite()
+
+}
 
 fun mimicDuck(crocodile: Crocodile): CrocoDuck =
-    TODO()
+    CrocoDuck(crocodile)
 
 fun main() {
   val honestlyDuck = mimicDuck(RealCrocodile())
-//  interactWithDuck(honestlyDuck)
-//  interactWithCrocodile(honestlyDuck.crocodile)
+  interactWithDuck(honestlyDuck)
+  interactWithCrocodile(honestlyDuck.crocodile)
   trace eq """
     Mnom-mnom
     Mnom-mnom

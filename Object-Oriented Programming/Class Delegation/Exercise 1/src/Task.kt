@@ -4,7 +4,7 @@ import atomictest.eq
 
 interface Rectangle {
   fun paint(): String
-  // TODO
+  fun resize(scale: Int) : Int
 }
 
 class ButtonImage(
@@ -13,19 +13,20 @@ class ButtonImage(
 ) : Rectangle {
   override fun paint() =
     "painting ButtonImage($width, $height)"
-  // TODO
+
+  override fun resize(scale: Int) = scale
 }
 
 interface MouseManager {
   fun clicked(): Boolean
   fun hovering(): Boolean
-  // TODO
+  fun rightClicked() : Boolean
 }
 
 class UserInput : MouseManager {
   override fun clicked() = true
   override fun hovering() = true
-  // TODO
+  override fun rightClicked(): Boolean = true
 }
 
 class Button(
@@ -42,5 +43,6 @@ fun main() {
     "painting ButtonImage(10, 5)"
   button.clicked() eq true
   button.hovering() eq true
-  // TODO
+  button.resize(1)
+  button.rightClicked()
 }
