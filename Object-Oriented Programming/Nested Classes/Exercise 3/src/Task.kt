@@ -13,20 +13,29 @@ abstract class Cleanable(val id: String) {
   }
 }
 
-class Shelf
+class Shelf : Cleanable("Shelf")
 
-class Closet
+class Closet : Cleanable("Closet") {
+  override val parts = listOf(Shelf(), Shelf())
+}
 
-class Toilet
+class Toilet : Cleanable("Toilet")
 
-class Sink
+class Sink : Cleanable("Sink")
 
-class Bathroom
+class Bathroom : Cleanable("Bathroom") {
+  override val parts = listOf(Toilet(), Sink())
+}
 
-class Bedroom
+class Bedroom(id: String) : Cleanable(id) {
+  override val parts: List<Cleanable> = listOf(Closet(), Bathroom())
+}
 
 class House : Cleanable("House") {
-  /*TODO*/
+  override val parts = listOf(
+    Bedroom("Master Bedroom"),
+    Bedroom("Guest Bedroom")
+  )
 }
 
 fun main() {

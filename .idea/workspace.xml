@@ -4,56 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e3ee35-2150-45c3-83e8-1ec2bef5f768" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/externalDependencies.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_github_microutils_kotlin_logging_jvm_2_0_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_reflect_1_6_20.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_6_20.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_6_20.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_6_20.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_6_20.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_test_1_6_20.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_test_junit_1_6_20.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_32.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_simple_1_7_32.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/AtomicKotlinCourse.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/AtomicKotlinCourse.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/AtomicKotlinCourse.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/util/AtomicKotlinCourse.util.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/util/AtomicKotlinCourse.util.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/util/AtomicKotlinCourse.util.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Examples/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Examples/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 1/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 1/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 1/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 2/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 2/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 2/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 3/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 3/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Class Delegation/Exercise 3/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Examples/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Examples/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 1/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 1/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 1/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 2/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 2/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 2/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 3/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 3/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Downcasting/Exercise 3/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Examples/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Examples/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Exercise 1/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Exercise 1/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Exercise 1/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Exercise 2/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Exercise 2/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Inheritance   Extensions/Exercise 2/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Power Tools/Property Delegation Tools/Examples/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Power Tools/Property Delegation Tools/Examples/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Power Tools/Property Delegation/Examples/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Power Tools/Property Delegation/Examples/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/AtomicKotlinCourse.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/META-INF/AtomicKotlinCourse.kotlin_module" beforeDir="false" />
+    <list default="true" id="47e3ee35-2150-45c3-83e8-1ec2bef5f768" name="Changes" comment=" Object-Oriented Programming - Inheritance &amp; Extensions, Class Delegation &amp; Downcasting">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Examples/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Examples/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 1/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 1/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 2/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 2/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 3/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 3/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 3/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 4/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 4/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 4/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Nested Classes/Exercise 4/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 1/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 1/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 1/test/Tests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 1/test/Tests.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 2/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 2/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 2/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 2/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 3/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 3/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Sealed Classes/Exercise 3/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Examples/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Examples/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 1/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 1/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 1/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 1/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 2/src/TaskA.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 2/src/TaskA.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 2/src/TaskB.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 2/src/TaskB.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 2/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 2/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 3/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 3/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 3/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Object-Oriented Programming/Type Checking/Exercise 3/task-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1357,47 +1333,47 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Confirmation&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TaskKt">
+  <component name="RunManager" selected="Kotlin.TaskKt (3)">
     <configuration default="true" type="Codeforces" factoryName="Codeforces">
       <module name="AtomicKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTypeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="downcasting.FindTypeKt" />
+    <configuration name="TaskBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="typeCheckingExercise2b.TaskBKt" />
+      <module name="AtomicKotlinCourse.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nestedClassesExercise2.TaskKt" />
       <module name="AtomicKotlinCourse.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TaskKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="downcastingExercise1.TaskKt" />
+      <option name="MAIN_CLASS_NAME" value="nestedClassesExercise3.TaskKt" />
       <module name="AtomicKotlinCourse.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TaskKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="downcastingExercise2.TaskKt" />
+      <option name="MAIN_CLASS_NAME" value="nestedClassesExercise4.TaskKt" />
       <module name="AtomicKotlinCourse.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TaskKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="downcastingExercise3.TaskKt" />
-      <module name="AtomicKotlinCourse.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnsafeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="downcasting.UnsafeKt" />
+      <option name="MAIN_CLASS_NAME" value="typeCheckingExercise3.TaskKt" />
       <module name="AtomicKotlinCourse.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -1418,11 +1394,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.TaskKt" />
         <item itemvalue="Kotlin.TaskKt (3)" />
-        <item itemvalue="Kotlin.FindTypeKt" />
         <item itemvalue="Kotlin.TaskKt (2)" />
-        <item itemvalue="Kotlin.UnsafeKt" />
+        <item itemvalue="Kotlin.TaskKt (1)" />
+        <item itemvalue="Kotlin.TaskKt" />
+        <item itemvalue="Kotlin.TaskBKt" />
       </list>
     </recent_temporary>
   </component>
@@ -1437,12 +1413,47 @@
       <workItem from="1694014197965" duration="1895000" />
       <workItem from="1694353210115" duration="6420000" />
       <workItem from="1694445803148" duration="5456000" />
-      <workItem from="1694516731270" duration="2031000" />
+      <workItem from="1694516731270" duration="3472000" />
+      <workItem from="1694543955862" duration="9000" />
+      <workItem from="1694597178769" duration="4688000" />
+      <workItem from="1694607109855" duration="276000" />
+      <workItem from="1694908191794" duration="15000" />
+      <workItem from="1695429149754" duration="745000" />
+      <workItem from="1695430569532" duration="207000" />
+      <workItem from="1695480584539" duration="5299000" />
+      <workItem from="1695491005864" duration="3522000" />
+      <workItem from="1695558280325" duration="8000" />
+      <workItem from="1695561420995" duration="2884000" />
     </task>
+    <task id="LOCAL-00001" summary=" Object-Oriented Programming - Inheritance &amp; Extensions, Class Delegation &amp; Downcasting">
+      <option name="closed" value="true" />
+      <created>1694519285384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694519285384</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value=" Object-Oriented Programming - Inheritance &amp; Extensions, Class Delegation &amp; Downcasting" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Object-Oriented Programming - Inheritance &amp; Extensions, Class Delegation &amp; Downcasting" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
